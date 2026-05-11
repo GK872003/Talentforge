@@ -1,0 +1,7 @@
+Candidate ID: C013
+Candidate Name: Vivek Mishra
+Email: vivekmishra@example.com
+Phone: 900002013
+SkillsExperience: 4
+Skills: C++, Java, SQL, Python
+Resume File Name: resume13.txt

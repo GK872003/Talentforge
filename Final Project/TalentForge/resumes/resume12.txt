@@ -1,0 +1,7 @@
+Candidate ID: C012
+Candidate Name: Sneha Kulkarni
+Email: snehakulkarni@example.com
+Phone: 900002012
+SkillsExperience: 3
+Skills: C++, Java, SQL, Python
+Resume File Name: resume12.txt

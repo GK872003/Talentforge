@@ -1,0 +1,7 @@
+Candidate ID: C041
+Candidate Name: Ritu Saxena
+Email: ritusaxena@example.com
+Phone: 900002041
+SkillsExperience: 6
+Skills: Communication, Management, Documentation
+Resume File Name: resume41.txt

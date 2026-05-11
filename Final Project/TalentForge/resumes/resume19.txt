@@ -1,0 +1,7 @@
+Candidate ID: C019
+Candidate Name: Ishita Bose
+Email: ishitabose@example.com
+Phone: 900002019
+SkillsExperience: 10
+Skills: C++, Java, SQL, Python
+Resume File Name: resume19.txt

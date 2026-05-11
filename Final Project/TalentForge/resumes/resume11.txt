@@ -1,0 +1,7 @@
+Candidate ID: C011
+Candidate Name: Amit Joshi
+Email: amitjoshi@example.com
+Phone: 900002011
+SkillsExperience: 2
+Skills: C++, Java, SQL, Python
+Resume File Name: resume11.txt

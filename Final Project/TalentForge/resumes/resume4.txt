@@ -1,0 +1,7 @@
+Candidate ID: C004
+Candidate Name: Anjali Menon
+Email: anjalimenon@example.com
+Phone: 900002004
+SkillsExperience: 5
+Skills: C++, Java, SQL, Python
+Resume File Name: resume4.txt

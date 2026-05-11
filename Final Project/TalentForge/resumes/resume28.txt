@@ -1,0 +1,7 @@
+Candidate ID: C028
+Candidate Name: Kavya N
+Email: kavyan@example.com
+Phone: 900002028
+SkillsExperience: 5
+Skills: Communication, Management, Documentation
+Resume File Name: resume28.txt

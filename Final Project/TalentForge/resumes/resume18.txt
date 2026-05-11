@@ -1,0 +1,7 @@
+Candidate ID: C018
+Candidate Name: Rahul Mehta
+Email: rahulmehta@example.com
+Phone: 900002018
+SkillsExperience: 9
+Skills: C++, Java, SQL, Python
+Resume File Name: resume18.txt

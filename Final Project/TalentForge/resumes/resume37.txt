@@ -1,0 +1,7 @@
+Candidate ID: C037
+Candidate Name: Shilpa Shetty
+Email: shilpashetty@example.com
+Phone: 900002037
+SkillsExperience: 2
+Skills: Communication, Management, Documentation
+Resume File Name: resume37.txt

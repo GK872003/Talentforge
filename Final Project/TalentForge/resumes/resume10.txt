@@ -1,0 +1,7 @@
+Candidate ID: C010
+Candidate Name: Divya Iyer
+Email: divyaiyer@example.com
+Phone: 900002010
+SkillsExperience: 1
+Skills: C++, Java, SQL, Python
+Resume File Name: resume10.txt

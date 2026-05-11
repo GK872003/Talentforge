@@ -1,0 +1,7 @@
+Candidate ID: C003
+Candidate Name: Suresh Reddy
+Email: sureshreddy@example.com
+Phone: 900002003
+SkillsExperience: 4
+Skills: C++, Java, SQL, Python
+Resume File Name: resume3.txt

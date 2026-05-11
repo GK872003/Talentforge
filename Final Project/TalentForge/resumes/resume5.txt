@@ -1,0 +1,7 @@
+Candidate ID: C005
+Candidate Name: Arjun Patel
+Email: arjunpatel@example.com
+Phone: 900002005
+SkillsExperience: 6
+Skills: C++, Java, SQL, Python
+Resume File Name: resume5.txt

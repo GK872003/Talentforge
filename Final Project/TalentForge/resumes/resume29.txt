@@ -1,0 +1,7 @@
+Candidate ID: C029
+Candidate Name: Ravi Shankar
+Email: ravishankar@example.com
+Phone: 900002029
+SkillsExperience: 6
+Skills: Communication, Management, Documentation
+Resume File Name: resume29.txt

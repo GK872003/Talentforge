@@ -1,0 +1,7 @@
+Candidate ID: C039
+Candidate Name: Bhavana Iyer
+Email: bhavanaiyer@example.com
+Phone: 900002039
+SkillsExperience: 4
+Skills: Communication, Management, Documentation
+Resume File Name: resume39.txt

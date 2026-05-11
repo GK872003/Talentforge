@@ -1,0 +1,7 @@
+Candidate ID: C008
+Candidate Name: Pooja Nair
+Email: poojanair@example.com
+Phone: 900002008
+SkillsExperience: 9
+Skills: C++, Java, SQL, Python
+Resume File Name: resume8.txt

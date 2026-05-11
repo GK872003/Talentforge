@@ -1,0 +1,7 @@
+Candidate ID: C050
+Candidate Name: Rajesh Kulkarni
+Email: rajeshkulkarni@example.com
+Phone: 900002050
+SkillsExperience: 3
+Skills: Communication, Management, Documentation
+Resume File Name: resume50.txt

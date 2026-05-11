@@ -1,0 +1,7 @@
+Candidate ID: C049
+Candidate Name: Preeti Sinha
+Email: preetisinha@example.com
+Phone: 900002049
+SkillsExperience: 2
+Skills: Communication, Management, Documentation
+Resume File Name: resume49.txt

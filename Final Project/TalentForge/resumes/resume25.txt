@@ -1,0 +1,7 @@
+Candidate ID: C025
+Candidate Name: Abhishek Tiwari
+Email: abhishektiwari@example.com
+Phone: 900002025
+SkillsExperience: 6
+Skills: C++, Java, SQL, Python
+Resume File Name: resume25.txt

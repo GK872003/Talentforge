@@ -1,0 +1,15 @@
+#include "NonITCandidate.h"
+
+void NonITCandidate::calculateScore(const JobDescription& job){
+    score=0;
+    std::map<std::string,int> req=job.getSkills();
+
+    for(std::map<std::string,int>::iterator it=req.begin(); it!=req.end(); ++it)
+        if(skills.count(it->first))
+            score+=it->second*0.8;
+
+    score+=experience;
+}
+
+
+

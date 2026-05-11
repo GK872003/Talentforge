@@ -1,0 +1,7 @@
+Candidate ID: C009
+Candidate Name: Rohit Gupta
+Email: rohitgupta@example.com
+Phone: 900002009
+SkillsExperience: 10
+Skills: C++, Java, SQL, Python
+Resume File Name: resume9.txt

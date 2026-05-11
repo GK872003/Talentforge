@@ -1,0 +1,7 @@
+Candidate ID: C043
+Candidate Name: Monica Fernandes
+Email: monicafernandes@example.com
+Phone: 900002043
+SkillsExperience: 8
+Skills: Communication, Management, Documentation
+Resume File Name: resume43.txt

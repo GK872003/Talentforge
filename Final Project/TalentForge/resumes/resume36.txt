@@ -1,0 +1,7 @@
+Candidate ID: C036
+Candidate Name: Pankaj Arora
+Email: pankajarora@example.com
+Phone: 900002036
+SkillsExperience: 1
+Skills: Communication, Management, Documentation
+Resume File Name: resume36.txt

@@ -1,0 +1,7 @@
+Candidate ID: C023
+Candidate Name: Varun Khanna
+Email: varunkhanna@example.com
+Phone: 900002023
+SkillsExperience: 4
+Skills: C++, Java, SQL, Python
+Resume File Name: resume23.txt

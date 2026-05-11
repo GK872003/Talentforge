@@ -1,0 +1,7 @@
+Candidate ID: C040
+Candidate Name: Harish Babu
+Email: harishbabu@example.com
+Phone: 900002040
+SkillsExperience: 5
+Skills: Communication, Management, Documentation
+Resume File Name: resume40.txt

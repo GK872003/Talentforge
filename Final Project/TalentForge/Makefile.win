@@ -1,0 +1,51 @@
+# Project: TalentForge
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = mingw32-g++.exe
+CC   = mingw32-gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o Candidate.o ITCandidate.o JobDescription.o NonITCandidate.o RankingManager.o ResumeParser.o ScreeningManager.o $(RES)
+LINKOBJ  = main.o Candidate.o ITCandidate.o JobDescription.o NonITCandidate.o RankingManager.o ResumeParser.o ScreeningManager.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = TalentForge.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before TalentForge.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "TalentForge.exe" $(LIBS)
+
+main.o: main.c
+	$(CPP) -c main.c -o main.o $(CXXFLAGS)
+
+Candidate.o: Candidate.c
+	$(CPP) -c Candidate.c -o Candidate.o $(CXXFLAGS)
+
+ITCandidate.o: ITCandidate.c
+	$(CPP) -c ITCandidate.c -o ITCandidate.o $(CXXFLAGS)
+
+JobDescription.o: JobDescription.c
+	$(CPP) -c JobDescription.c -o JobDescription.o $(CXXFLAGS)
+
+NonITCandidate.o: NonITCandidate.c
+	$(CPP) -c NonITCandidate.c -o NonITCandidate.o $(CXXFLAGS)
+
+RankingManager.o: RankingManager.c
+	$(CPP) -c RankingManager.c -o RankingManager.o $(CXXFLAGS)
+
+ResumeParser.o: ResumeParser.c
+	$(CPP) -c ResumeParser.c -o ResumeParser.o $(CXXFLAGS)
+
+ScreeningManager.o: ScreeningManager.c
+	$(CPP) -c ScreeningManager.c -o ScreeningManager.o $(CXXFLAGS)

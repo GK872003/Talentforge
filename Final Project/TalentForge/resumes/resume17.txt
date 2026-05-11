@@ -1,0 +1,7 @@
+Candidate ID: C017
+Candidate Name: Lakshmi Narayanan
+Email: lakshminarayanan@example.com
+Phone: 900002017
+SkillsExperience: 8
+Skills: C++, Java, SQL, Python
+Resume File Name: resume17.txt

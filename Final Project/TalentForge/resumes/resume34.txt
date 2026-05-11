@@ -1,0 +1,7 @@
+Candidate ID: C034
+Candidate Name: Aishwarya Deshpande
+Email: aishwaryadeshpande@example.com
+Phone: 900002034
+SkillsExperience: 11
+Skills: Communication, Management, Documentation
+Resume File Name: resume34.txt

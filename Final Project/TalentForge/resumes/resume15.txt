@@ -1,0 +1,7 @@
+Candidate ID: C015
+Candidate Name: Sweta Agarwal
+Email: swetaagarwal@example.com
+Phone: 900002015
+SkillsExperience: 6
+Skills: C++, Java, SQL, Python
+Resume File Name: resume15.txt

@@ -1,0 +1,7 @@
+Candidate ID: C047
+Candidate Name: Anita Das
+Email: anitadas@example.com
+Phone: 900002047
+SkillsExperience: 12
+Skills: Communication, Management, Documentation
+Resume File Name: resume47.txt

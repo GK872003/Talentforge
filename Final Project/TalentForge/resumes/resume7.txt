@@ -1,0 +1,7 @@
+Candidate ID: C007
+Candidate Name: Karthik Srinivasan
+Email: karthiksrinivasan@example.com
+Phone: 900002007
+SkillsExperience: 8
+Skills: C++, Java, SQL, Python
+Resume File Name: resume7.txt

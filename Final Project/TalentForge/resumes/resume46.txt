@@ -1,0 +1,7 @@
+Candidate ID: C046
+Candidate Name: Mahesh Nair
+Email: maheshnair@example.com
+Phone: 900002046
+SkillsExperience: 11
+Skills: Communication, Management, Documentation
+Resume File Name: resume46.txt

@@ -1,0 +1,7 @@
+Candidate ID: C031
+Candidate Name: Arun Prakash
+Email: arunprakash@example.com
+Phone: 900002031
+SkillsExperience: 8
+Skills: Communication, Management, Documentation
+Resume File Name: resume31.txt

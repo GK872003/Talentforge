@@ -1,0 +1,7 @@
+Candidate ID: C030
+Candidate Name: Meena Lakshmi
+Email: meenalakshmi@example.com
+Phone: 900002030
+SkillsExperience: 7
+Skills: Communication, Management, Documentation
+Resume File Name: resume30.txt

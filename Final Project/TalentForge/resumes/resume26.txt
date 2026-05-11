@@ -1,0 +1,7 @@
+Candidate ID: C026
+Candidate Name: Sunita Rao
+Email: sunitarao@example.com
+Phone: 900002026
+SkillsExperience: 3
+Skills: Communication, Management, Documentation
+Resume File Name: resume26.txt

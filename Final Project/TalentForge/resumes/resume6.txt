@@ -1,0 +1,7 @@
+Candidate ID: C006
+Candidate Name: Neha Verma
+Email: nehaverma@example.com
+Phone: 900002006
+SkillsExperience: 7
+Skills: C++, Java, SQL, Python
+Resume File Name: resume6.txt

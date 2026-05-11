@@ -1,0 +1,7 @@
+Candidate ID: C001
+Candidate Name: Ramesh Kumar
+Email: rameshkumar@example.com
+Phone: 900002001
+SkillsExperience: 2
+Skills: C++, Java, SQL, Python
+Resume File Name: resume1.txt

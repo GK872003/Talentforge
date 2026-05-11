@@ -1,0 +1,7 @@
+Candidate ID: C027
+Candidate Name: Manoj Kumar
+Email: manojkumar@example.com
+Phone: 900002027
+SkillsExperience: 4
+Skills: Communication, Management, Documentation
+Resume File Name: resume27.txt

@@ -1,0 +1,7 @@
+Candidate ID: C020
+Candidate Name: Manoj Pillai
+Email: manojpillai@example.com
+Phone: 900002020
+SkillsExperience: 1
+Skills: C++, Java, SQL, Python
+Resume File Name: resume20.txt

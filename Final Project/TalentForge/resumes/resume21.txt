@@ -1,0 +1,7 @@
+Candidate ID: C021
+Candidate Name: Deepak Yadav
+Email: deepakyadav@example.com
+Phone: 900002021
+SkillsExperience: 2
+Skills: C++, Java, SQL, Python
+Resume File Name: resume21.txt

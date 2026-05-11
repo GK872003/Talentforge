@@ -1,0 +1,7 @@
+Candidate ID: C016
+Candidate Name: Sanjay Verma
+Email: sanjayverma@example.com
+Phone: 900002016
+SkillsExperience: 7
+Skills: C++, Java, SQL, Python
+Resume File Name: resume16.txt

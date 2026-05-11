@@ -1,0 +1,7 @@
+Candidate ID: C042
+Candidate Name: Gopal Iyer
+Email: gopaliyer@example.com
+Phone: 900002042
+SkillsExperience: 7
+Skills: Communication, Management, Documentation
+Resume File Name: resume42.txt

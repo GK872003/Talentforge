@@ -1,0 +1,7 @@
+Candidate ID: C022
+Candidate Name: Shruti Malhotra
+Email: shrutimalhotra@example.com
+Phone: 900002022
+SkillsExperience: 3
+Skills: C++, Java, SQL, Python
+Resume File Name: resume22.txt

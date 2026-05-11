@@ -1,0 +1,7 @@
+Candidate ID: C038
+Candidate Name: Naveen Chandra
+Email: naveenchandra@example.com
+Phone: 900002038
+SkillsExperience: 3
+Skills: Communication, Management, Documentation
+Resume File Name: resume38.txt

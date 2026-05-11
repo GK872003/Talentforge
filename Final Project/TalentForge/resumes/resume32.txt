@@ -1,0 +1,7 @@
+Candidate ID: C032
+Candidate Name: Deepa Krishnan
+Email: deepakrishnan@example.com
+Phone: 900002032
+SkillsExperience: 9
+Skills: Communication, Management, Documentation
+Resume File Name: resume32.txt

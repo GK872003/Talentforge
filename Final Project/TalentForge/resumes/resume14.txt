@@ -1,0 +1,7 @@
+Candidate ID: C014
+Candidate Name: Nithin Rao
+Email: nithinrao@example.com
+Phone: 900002014
+SkillsExperience: 5
+Skills: C++, Java, SQL, Python
+Resume File Name: resume14.txt

@@ -1,0 +1,7 @@
+Candidate ID: C045
+Candidate Name: Rekha Kulkarni
+Email: rekhakulkarni@example.com
+Phone: 900002045
+SkillsExperience: 10
+Skills: Communication, Management, Documentation
+Resume File Name: resume45.txt

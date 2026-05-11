@@ -1,0 +1,7 @@
+Candidate ID: C048
+Candidate Name: Kunal Shah
+Email: kunalshah@example.com
+Phone: 900002048
+SkillsExperience: 1
+Skills: Communication, Management, Documentation
+Resume File Name: resume48.txt

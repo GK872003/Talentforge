@@ -1,0 +1,7 @@
+Candidate ID: C035
+Candidate Name: Vikram Singh
+Email: vikramsingh@example.com
+Phone: 900002035
+SkillsExperience: 12
+Skills: Communication, Management, Documentation
+Resume File Name: resume35.txt

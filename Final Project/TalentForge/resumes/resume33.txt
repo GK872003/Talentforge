@@ -1,0 +1,7 @@
+Candidate ID: C033
+Candidate Name: Sanjay Malhotra
+Email: sanjaymalhotra@example.com
+Phone: 900002033
+SkillsExperience: 10
+Skills: Communication, Management, Documentation
+Resume File Name: resume33.txt

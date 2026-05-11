@@ -1,0 +1,7 @@
+Candidate ID: C044
+Candidate Name: Siddharth Jain
+Email: siddharthjain@example.com
+Phone: 900002044
+SkillsExperience: 9
+Skills: Communication, Management, Documentation
+Resume File Name: resume44.txt
